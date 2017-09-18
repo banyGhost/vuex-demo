@@ -1,4 +1,4 @@
-# xxx
+# Vuex Demo
 
 > A Vue.js project
 
