@@ -2,6 +2,7 @@
 
 > A Vue.js project
 
+![演示](./insta.gif)
 ## Build Setup
 
 ``` bash
